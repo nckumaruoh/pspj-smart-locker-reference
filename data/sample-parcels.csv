@@ -1,0 +1,6 @@
+parcelId,recipientId,recipientName,size,weightKg,lockerId,pickupCode,status,receivedHour,storageFee
+P101,22004567,Asha Rao,S,1.20,S01,11372,RECEIVED,9,13.00
+P102,22007112,Ravi Kumar,M,3.00,M01,12744,RECEIVED,9,27.50
+P103,22004567,Asha Rao,L,8.00,,14117,PICKED_UP,14,50.00
+P104,22008234,Meera Das,S,0.50,S02,15488,RECEIVED,9,11.25
+P105,22004567,Asha Rao,M,4.00,,16850,PICKED_UP,14,30.00

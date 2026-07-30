@@ -1,0 +1,8 @@
+out/
+out-test/
+data/parcels.csv
+data/demo-parcels.csv
+reports/*.txt
+*.class
+.idea/
+.vscode/
