@@ -39,11 +39,21 @@ See [docs/CO_TRACEABILITY.md](docs/CO_TRACEABILITY.md) for detailed mapping.
 - Windows PowerShell for the included convenience scripts
 - No Maven, Gradle, database or external library
 
+First-time programming students should begin with the detailed
+[software installation, folders, paths and troubleshooting guide](docs/STUDENT_INSTALLATION_PATHS_AND_TROUBLESHOOTING_GUIDE.md).
+
 Verify the installation:
 
 ```powershell
 java --version
 javac --version
+```
+
+Run the beginner-friendly environment diagnostic from the repository folder:
+
+```powershell
+Set-ExecutionPolicy -Scope Process Bypass
+.\setup-check.ps1
 ```
 
 ## Fastest demonstration
